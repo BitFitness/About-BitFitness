@@ -1,8 +1,8 @@
-##About BitFitness##
+##About BitFitness#
 BitFitness is a unique initiative that merges physical fitness, community engagement, and Bitcoin adoption to create a sustainable circular economy. We believe the mindset that drives Bitcoin (consistency, discipline, and Proof-of-Work) is the same mindset that builds strong individuals and resilient communities.
 Through BitFitness, we transform workouts, sports, and community events into opportunities to learn, earn, and grow together.
 
-##Our Mission##
+#Our Mission#
 To build a Bitcoin-powered circular economy by connecting fitness, education, and local businesses.
 We achieve this by:
 - Organizing structured fitness challenges based on Proof-of-Work principles
